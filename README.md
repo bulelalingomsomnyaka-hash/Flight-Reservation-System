@@ -46,6 +46,7 @@ This Application allows users to log in, search for flights, book tickets, and g
 ### 4. Run
 1. Right-click `LoginForm.java` > **Run File**
 2. Login with:
-
+3. Usernames (Bulela, Asemahle, Mary or Kwakhanya) and password is the same that is: 1234
+4. Then book the ticket
 
 
